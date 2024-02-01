@@ -1,5 +1,4 @@
 # Práctica 4: Algoritmos de ordenamiento
-# Práctica 4: Algoritmos de ordenamiento
 
 - Candelaria Rivera Emiliano 
 - 2223068382
@@ -19,11 +18,11 @@ En el siguiente reporte se analizaran los resultados obtenidos durante la práct
 
 - Tabla de resultados
 
-![](imagenes\tabla 5000.jpg)
+![](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-Cande99/blob/main/imagenes/tabla%205000.jpg)
 
 - Promedio y desviación estandar 
 
-![](imagenes\pyd 5000.jpg)
+![](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-Cande99/blob/main/imagenes/pyd%205000.jpg)
 
 ### Tamaño de arreglo (n = 10000)
 
