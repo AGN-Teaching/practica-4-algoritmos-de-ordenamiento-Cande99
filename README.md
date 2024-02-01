@@ -28,53 +28,53 @@ En el siguiente reporte se analizaran los resultados obtenidos durante la práct
 
 - Tabla de resultados
 
-![](imagenes\tabla 10mil.jpg)
+![](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-Cande99/blob/main/imagenes/tabla%2010mil.jpg)
 
 - Promedio y desviación estandar 
 
-![](imagenes\pyd 10mil.jpg)
+![](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-Cande99/blob/main/imagenes/pyd%2010mil.jpg)
 
 ### Tamaño de arreglo (n = 50000)
 
 - Tabla de resultados
 
-![](imagenes\tabla 50mil.jpg)
+![](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-Cande99/blob/main/imagenes/tabla%2050mil.jpg)
 
 - Promedio y desviación estandar 
 
-![](imagenes\pyd 50mil.jpg)
+![](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-Cande99/blob/main/imagenes/pyd%2050mil.jpg)
 
 ### Tamaño de arreglo (n = 100000)
 
 - Tabla de resultados
 
-![](imagenes\tabla 100mil.jpg)
+![](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-Cande99/blob/main/imagenes/tabla100mil.jpg)
 
 - Promedio y desviación estandar 
 
-![](imagenes\pyd 100mil.jpg)
+![](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-Cande99/blob/main/imagenes/pyd%20100mil.jpg)
 
 ## 2. Graficas y tablas de resultados
 
 - Tabla de resultados de calcular el promedio y la desviación estándar
 
-![](imagenes\tablas de promedio y d. e..jpg)
+![](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-Cande99/blob/main/imagenes/tablas%20de%20promedio%20y%20d.%20e..jpg)
 
 - Graficas de resultados
 
-![]()
+![](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-Cande99/blob/main/imagenes/grafica%205k.jpg)
 Grafica 1
 
 
-![]()
+![](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-Cande99/blob/main/imagenes/grafica%2010k.jpg)
 Grafica 2
 
 
-![]()
+![](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-Cande99/blob/main/imagenes/grafica%2050k.jpg)
 Grafica 3
 
 
-![]()
+![](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-Cande99/blob/main/imagenes/grafica%20100k.jpg)
 Grafica 4
 
 
@@ -84,11 +84,11 @@ Grafica 4
 
 - Los algoritmos iterativos, al analizar su ejecución muestran una relación de n^2. Esto lo podemos ver en la siguiente grafica comparativa. 
 
-![]()
+![](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-Cande99/blob/main/imagenes/comparativa%201.jpg)
 
 - Por otro lado, los algoritmos recursivos muestran mas una relación logaritmica lineal, n lg n. Esto se puede apreciar en la siguiente grafica.
 
-![]()
+![](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-Cande99/blob/main/imagenes/comparativa%202.jpg)
 
 - La desviación estándar es una medida de dispersión que indica cuánto varían los valores en un conjunto de datos con respecto a la media.
 
